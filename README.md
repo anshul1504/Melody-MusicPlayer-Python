@@ -1,0 +1,2 @@
+# Melody-MusicPlayer-Python
+A mucic player with .exe file and it was complete made through the help and in this project i have used lots of python module and its working like this music cand music from our system and we can also create the playlist with delete functionality and also having a play pause stop and forward and updoen music and volue control and mute all this functionality has been inbuild and this music also showing the total length and current time of the music and the bottom its also showing the current music which is playing on music player.
